@@ -11,3 +11,4 @@ INSTALL
 -------------------
 
 To install, simply copy the Data folder into the Skyrim directory, or use the NMM as usual.
+This was developed for a much older Skyrim version than the current version, so please let me know if it any parts no longer work.
