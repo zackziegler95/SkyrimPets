@@ -7,7 +7,7 @@ Skyrim Pets is a mod for Skyrim that adds the ability to capture, save, and summ
 This is something I worked on in 8th grade, and it became surprisingly popular! As of right now (Fall 2016), there have been more than 15,000 downloads, and 80,000 views. A popular Youtuber named Brodual found the mod and made a video about it, which has also seen significant traffic. 
 
 -------------------
-     INSTALL
+INSTALL
 -------------------
 
 To install, simply copy the Data folder into the Skyrim directory, or use the NMM as usual.
